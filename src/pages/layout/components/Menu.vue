@@ -17,7 +17,7 @@ const menuOptions = [
   },
   {
     label: '菜单2',
-    key: 'menu12',
+    key: 'menu2',
     icon: renderIcon(App)
   },
   {
